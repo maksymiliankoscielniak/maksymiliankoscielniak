@@ -12,6 +12,13 @@ I'm a Computer Science student based in Lodz.
 
 ---
 
+### 🚀 My Projects
+
+* **Full-Stack Weather App:** [Angular Frontend](https://github.com/maksymiliankoscielniak/weather-app-frontend) & [Python Backend](https://github.com/maksymiliankoscielniak/python-weather-app)
+    * A responsive weather app with a custom API, real-time city search, and a custom-designed UI.
+
+---
+
 ### 🌱 What I'm Currently Learning
 
 * I'm currently working on... a new portfolio project
