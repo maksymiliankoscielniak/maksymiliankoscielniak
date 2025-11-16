@@ -7,7 +7,7 @@ I'm a Computer Science student based in Lodz.
 ### 💻 My Tech Stack
 
 * **Languages:** JavaScript, Python, C, C++, HTML, CSS, PHP, SQL
-* **Frameworks:** Angular, Node.js, Django
+* **Frameworks:** Angular, Node.js, Django, Flask
 * **Tools:** VS Code
 
 ---
