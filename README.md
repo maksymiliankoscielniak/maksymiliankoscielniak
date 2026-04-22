@@ -22,7 +22,7 @@ I'm a Computer Science student based in Lodz.
 ### 🌱 What I'm Currently Learning
 
 * I'm currently working on... a new portfolio project
-* I'm learning... Java
+* I'm learning... React
 
 ---
 
