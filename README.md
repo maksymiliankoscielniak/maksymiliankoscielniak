@@ -14,6 +14,9 @@ I'm a Computer Science student based in Lodz.
 
 ## 🚀 My Projects
 
+- **[NexusRisk](https://github.com/maksymiliankoscielniak/NexusRisk)** 
+  - A standalone, interactive portfolio macro and risk stress-testing dashboard. Features dynamic asset-allocation rebalancing, historical crisis simulation (2008 crash, stagflation shocks), Monte Carlo stochastic modeling, and real-time risk metrics (Sharpe ratio, VaR 95%). Built with **React**, **TypeScript**, and **Vite**.
+
 - **[countIT](https://github.com/maksymiliankoscielniak/countIT)** 
   - A modern, full-stack calorie and macro tracking application featuring secure user authentication, drag-and-drop meal management, and dynamic macro calculation using the Mifflin-St Jeor equation. Built with **React**, **TypeScript**, **FastAPI**, and integrated with the government USDA FoodData Central API.
 
