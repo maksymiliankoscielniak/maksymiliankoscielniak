@@ -20,6 +20,12 @@ I'm a Computer Science student based in Lodz.
 - **[countIT](https://github.com/maksymiliankoscielniak/countIT)** 
   - A modern, full-stack calorie and macro tracking application featuring secure user authentication, drag-and-drop meal management, and dynamic macro calculation using the Mifflin-St Jeor equation. Built with **React**, **TypeScript**, **FastAPI**, and integrated with the government USDA FoodData Central API.
 
+- **[GymGallery](https://github.com/maksymiliankoscielniak/GymGallery)** 
+  - An art-inspired hypertrophy planner: sketch your split on parchment, paint your exercise selection in oil, then carve the final physique in marble. Built with **React** and **TypeScript**, with no backend – all data stays in the browser.
+
+- **[Peppin](https://github.com/maksymiliankoscielniak/Peppin)** 
+  - A clean, client-side reconstitution calculator and educational compound library with a goal finder and half-life simulator. Built with **React**, **TypeScript**, and **Vite**, deployed on GitHub Pages. Educational only – not medical advice.
+
 - **Full-Stack Weather App: [Angular Frontend](#) & [Python Backend](#)**
   - A responsive weather app with a custom API, real-time city search, and a custom-designed UI.
 
