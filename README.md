@@ -2,6 +2,8 @@
 
 I'm a Computer Science student based in Lodz.
 
+🌐 **Portfolio:** [maksymiliankoscielniak.com](https://maksymiliankoscielniak.com)
+
 ---
 
 ## 💻 My Tech Stack
@@ -40,5 +42,5 @@ I'm a Computer Science student based in Lodz.
 
 ## 📫 How to Reach Me
 
-- **Email:** maksymilian.koscielniak.kontakt@gmail.com
+- **Email:** contact@maksymiliankoscielniak.com
 - **LinkedIn:** [Maksymilian Kościelniak](https://www.linkedin.com/in/maksymilian-ko%C5%9Bcielniak-61b467353/)
