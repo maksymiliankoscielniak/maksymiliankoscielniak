@@ -2,7 +2,7 @@
 
 I'm a Computer Science student based in Lodz.
 
-🌐 **Portfolio:** [maksymiliankoscielniak.com](https://maksymiliankoscielniak.com)
+🌐 **Reach me:** [maksymiliankoscielniak.com](https://maksymiliankoscielniak.com)
 
 ---
 
